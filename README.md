@@ -256,7 +256,7 @@ Instead, disciplinary measures under Article 39 are in addition to those penalti
 
 == Article 40: Compensation for Damages ==
 
-Article 40 of the Personal Data Protection Law (PDPL) of Saudi Arabia establishes the right of individuals to seek compensation if they suffer harm due to violations of PDPL or its regulations. Let us understand this in detail.
+Article 40 of the Personal Data Protection Law (PDPL) of Saudi Arabia establishes the right of individuals to seek compensation if they suffer harm due to violations of PDPL or its regula tions. Let us understand this in detail.
 
 Key Points
 
@@ -276,6 +276,10 @@ Any person that engages in the Processing of Personal Data shall protect the con
 == Article 42: Issuance Of Regulations ==
 
 The president of the Competent Authority shall issue the Regulations within a period not exceeding (seven hundred and twenty) days commencing on the date of publishing the Law provided that the president must coordinate before issuing the Law with: (Ministry of Communications and Information Technology, Ministry of Foreign Affairs, Communications, Space & Technology Commission, Digital Government Authority, National Cybersecurity Authority, Saudi Health Council, and Saudi Central Bank), each in its own jurisdiction.
+
+== Implementation Template ==
+
+The following template shows how to imp
 
 
 
