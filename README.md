@@ -279,7 +279,51 @@ The president of the Competent Authority shall issue the Regulations within a pe
 
 == Implementation Template ==
 
-The following template shows how to imp
+Step 1 - Creating Procedures and Guidelines
+
+
+Template under my docs, as a starting point and modify it to suit organizational needs. When creating procedures,  to ensure that they are aligned with PDPL requirements. For example, PDPL allows the controller to respond to a data subject’s request within 30 days. The procedure must not exceed this limit. Some organizations prefer to keep a buffer, such as setting a 15 day response period, which is well within PDPL’s requirement.
+
+
+Step 2 - Creating a Master Inventory of Personal Data
+
+
+Step 2 is about creating a master inventory of personal data. We may use our ready made master inventory template as a starting point and modify it as per our organizational needs. This step is the most important part of ensuring compliance. Our level of compliance will directly depend on the accuracy of this master inventory. If any data element is missed, then we will not be able to monitor or demonstrate compliance for that personal data.
+
+Ideally, each head of department should take responsibility to ensure that all personal data collected and processed in their department is captured in the inventory. In addition, an internal auditor should perform an independent review and certify that nothing has been missed.
+
+The master inventory serves multiple purposes:
+
+It allows us to track compliance or non compliance directly.
+
+It acts as a data mapping tool, helping us identify unnecessary data. For example, if we realize that the purpose of collecting a data element is not justified, we may decide to stop collecting it.
+
+It helps us align processes with PDPL’s principles such as data minimization, purpose limitation, and retention requirements.
+
+It also provides visibility into cross border transfers, processors involved, and storage practices.
+
+Step 3 - Checking Implementation Status and Addressing the Gaps
+
+
+Step 3 is about checking the implementation status and addressing the gaps. The first task is to map your organization’s procedures against the requirements of the PDPL and its related regulations. This mapping will clearly show which requirements are already being complied with and where gaps exist.
+
+
+
+We may use our ready made compliance checklist template (Template No. 21) as a starting point. This template allows you to directly identify whether a requirement is complied with or not and can be customized with additional columns as per your organization’s needs. The template is available for download in the resource section of the Udemy course.
+
+
+
+For each identified gap, prepare detailed action points and assign responsibility to a senior-level employee along with a target completion date. The Data Protection Officer (DPO) should monitor the progress of these action items and ensure timely closure.
+
+
+
+It is also important that this compliance status is reviewed periodically. Ideally, such an evaluation should happen at least once every year. Regular reviews will help the organization remain compliant and adapt to any regulatory changes.
+
+
+
+With this lecture, we have completed our lecture series on PDPL and its implementation. We wish you all the best in successfully implementing your personal data privacy program. Thanks for watching.
+
+
 
 
 
